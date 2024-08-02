@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Mateus 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,6 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+00001114829535sp@aluno.educacao.sp.gov.br
 
-@marcelopaludetto
-
-![descrição do GIF](link GIF do Tenor)
+https://media1.tenor.com/m/mYoTcoRn4EUAAAAd/lobotomiesrus-coraline.gif
